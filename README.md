@@ -1,5 +1,11 @@
 # reinhard-tmo-python
-An implimentation of the Reinhard TMO for HDR image.
+An implementation of the Reinhard TMO for HDR images.
+
+# Requirements
+- python
+- numpy
+- scipy
+- opencv-python
 
 # Usage
 ```
